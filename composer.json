@@ -1,0 +1,14 @@
+{
+    "name": "a/a",
+    "authors": [
+        {
+            "name": "b33c00l",
+            "email": "psakalauskas@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload":{
+
+    	"psr-4": {"": "./"}
+    }
+}
